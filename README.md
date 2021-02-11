@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafa Puerta</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 <p align="center">
-- 🌱 I’m currently learning **MERN**, **Vue.JS**, **SQL**, **Angular**
+  <ul>
+    <li> 🌱 I’m currently learning **MERN**, **Vue.JS**, **SQL**, **Angular**</li>
 
-- 📫 How to reach me: **info@rafapuerta.com**
-
+<li> 📫 How to reach me: **info@rafapuerta.com** </li>
+</ul>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -19,4 +20,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapuerta&show_icons=true&locale=en&layout=compact" alt="rafapuerta" /></p>
 
-<palign="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapuerta&" alt="rafapuerta" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapuerta&" alt="rafapuerta" /></p>
