@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafa Puerta</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
-<p align="center">
-  <ul>
+
+  <ul align="center">
     <li> 🌱 I’m currently learning **MERN**, **Vue.JS**, **SQL**, **Angular**</li>
 
 <li> 📫 How to reach me: **info@rafapuerta.com** </li>
 </ul>
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
