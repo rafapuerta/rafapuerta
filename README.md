@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
   <p align="center">
-    🌱 I’m currently learning **MERN**, **Vue.JS**, **SQL**, **Angular**<br />📫 Reach me: **info@rafapuerta.com**
+    🌱 I’m currently learning <strong>MERN</strong>, <strong>Vue.JS</strong>, <strong>SQL</strong>, <strong>Angular</strong><br />📫 Reach me: <strong>info@rafapuerta.com</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
