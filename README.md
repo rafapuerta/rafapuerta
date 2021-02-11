@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafa Puerta</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m studying at [code4jobs](https://www.code4jobs.com/)
+- 🌱 I’m currently learning **MERN**, **Vue.JS**, **SQL**, **Angular**
 
-- 🌱 I’m currently learning **MERN**
-
-- 📫 How to reach me **info@rafapuerta.com**
+- 📫 How to reach me: **info@rafapuerta.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
