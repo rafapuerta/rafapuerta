@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
   <p align="center">
-  💻 I work for <a href="http://www.code4jobs.com"> <strong>Code 4 Jobs</strong> <a/> as a Lead Instructor. 
+  💻 I work for <a href="http://www.code4jobs.com"> <strong>Code 4 Jobs</strong> <a/> as a Lead Instructor. <br />
   🌱 I’m currently learning <strong>MERN</strong>, <strong>Vue.JS</strong>, <strong>SQL</strong>, <strong>Angular</strong><br />📫 Reach me: <strong>info@rafapuerta.com</strong>
 </p>
 
