@@ -1,21 +1,64 @@
-<h1 align="center">Hi 👋, I'm Rafa Puerta</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
-
-  <p align="center">
-  💻 I work for <a href="http://www.code4jobs.com"> <strong>Code 4 Jobs</strong> <a/> as a Lead Instructor. <br />
-  🌱 I’m currently learning <strong>MERN</strong>, <strong>Vue.JS</strong>, <strong>SQL</strong>, <strong>Angular</strong><br />📫 Reach me: <strong>info@rafapuerta.com</strong>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rafa-puerta-60633967/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafa-puerta-60633967/" height="30" width="40" /></a>
-<a href="https://www.behance.net/rafapuerta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rafapuerta" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+### Hi there, I'm RafaPuerta 👋
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapuerta&show_icons=true&locale=en&layout=compact" alt="rafapuerta" /></p>
+<br />
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapuerta&" alt="rafapuerta" /></p>
+[![Website](https://img.shields.io/website?label=rafapuerta.com&style=for-the-badge&url=http%3A%2F%2Frafapuerta.com)](https://rafapuerta.com)
+[![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
+
+## I'm a Fullstack Developer and a Teacher!!
+
+- 🔭 I'm teaching MERN at [Code4Jobs](https://www.code4jobs.com)
+- 💻 I'm developing at [AcceXible](https://www.accexible.com)
+- 🌱 I’m currently learning everything 🤓
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+### Connect with me:
+
+[<img align="left" alt="rafapuerta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rafapuerta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rafapuerta | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
+
+<br />
+
+### Languages and Tools:
+
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+<img align="left" alt="ExpresJS" width="26px" src="https://nestormyrie.com/static/media/expresslogo.bd60c4de.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Git" width="26px" src="https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
+
+<br />
+<br />
+
+</details>
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapuerta&show_icons=true&locale=en&layout=compact" alt="rafapuerta" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapuerta&" alt="rafapuerta" />
+
+</details>
+
+[website]: http://rafapuerta.com
+[mail]: mailto://info@rafapuerta.com
+[linkedin]: hhttps://linkedin.com/in/rafa-puerta-60633967/
+[behance]: https://www.behance.net/rafapuerta
