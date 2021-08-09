@@ -3,7 +3,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/website?label=rafapuerta.com&style=for-the-badge&url=http%3A%2F%2Frafapuerta.com)](https://rafapuerta.com)
+[![Website](https://img.shields.io/website?label=rafapuerta.com&style=for-the-badge&url=http%3A%2F%2Fwww.rafapuerta.com)](https://www.rafapuerta.com)
 [![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
 
 ## I'm a Fullstack Developer and a Teacher!!
