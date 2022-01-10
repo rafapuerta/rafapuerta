@@ -8,8 +8,7 @@
 
 ## I'm a Fullstack Developer and a Teacher!!
 
-- 🔭 I'm teaching MERN at [Code4Jobs](https://www.code4jobs.com)
-- 💻 I'm developing at [AcceXible](https://www.accexible.com)
+- 💻️ I'm developing at Runnea
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
