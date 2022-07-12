@@ -8,7 +8,7 @@
 
 ## I'm a Fullstack Developer and a Teacher!!
 
-- 💻️ I'm developing at [Runnea](https://runnea.com) and teaching at [Cice](www.cice.es)
+- 💻️ I'm developing at [Runnea](https://runnea.com) and teaching at [Cice](https://www.cice.es)
 - 🌱 Currently learning everything that falls on my sight 🤓
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
