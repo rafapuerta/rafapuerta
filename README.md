@@ -48,6 +48,9 @@
 
 </details>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapuerta)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details>
   <summary>⚡ GitHub Stats</summary>
 
