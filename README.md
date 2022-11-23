@@ -1,5 +1,7 @@
-### Hi there, I'm RafaPuerta 👋
+### 
 
+<h1 align="center">Hi there, I'm RafaPuerta 👋</h1>
+<h3 align="center">Full Stack Web Developer based in Madrid, Spain.</h3>
 
 <br />
 
