@@ -5,11 +5,10 @@
 
 <br />
 
-[![Website](https://img.shields.io/website?label=rafapuerta.com&style=for-the-badge&url=http%3A%2F%2Fwww.rafapuerta.com)](https://www.rafapuerta.com)
 [![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
 
 
-- 💻️ I'm currently developing at [Runnea](https://runnea.com) and teaching at [Cice](https://www.cice.es)
+- 💻️ I'm currently developing at [Runnea](https://runnea.com) and teaching at [Immune Institue]([https://www.cice.es](https://immune.institute/))
 - 🌱 Constantly learning and striving to improve every day
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
