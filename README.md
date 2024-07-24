@@ -38,21 +38,6 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-</details>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafapuerta)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapuerta&show_icons=true&locale=en&layout=compact" alt="rafapuerta" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafapuerta&" alt="rafapuerta" />
-
-</details>
 
 [website]: http://rafapuerta.com
 [mail]: mailto://info@rafapuerta.com
