@@ -10,7 +10,7 @@
 
 - 💻️ I'm currently developing at [Runnea](https://runnea.com) and teaching at [Immune Institue]([https://www.cice.es](https://immune.institute/))
 - 🌱 Constantly learning and striving to improve every day
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
