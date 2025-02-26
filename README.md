@@ -8,7 +8,7 @@
 [![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
 
 
-- 💻️ I'm currently developing at [Runnea](https://runnea.com) and teaching at [Immune Institue]([https://www.cice.es](https://immune.institute/))
+- 💻️ I'm currently developing at Ligno Consulting and teaching at [EBIS Techschool]([https://www.ebiseducation.com/))
 - 🌱 Constantly learning and striving to improve every day
 - 🥅 2025 Goals: Contribute more to Open Source projects
 
@@ -41,5 +41,5 @@
 
 [website]: http://rafapuerta.com
 [mail]: mailto://info@rafapuerta.com
-[linkedin]: hhttps://linkedin.com/in/rafa-puerta-60633967/
+[linkedin]: https://linkedin.com/in/rafa-puerta-60633967](https://www.linkedin.com/in/rafa-puerta/
 [behance]: https://www.behance.net/rafapuerta
