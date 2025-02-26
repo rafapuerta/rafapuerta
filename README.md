@@ -8,7 +8,7 @@
 [![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
 
 
-- 💻️ I'm currently developing at Ligno Consulting and teaching at [EBIS Techschool]([https://www.ebiseducation.com/))
+- 💻️ I'm currently developing at Lignorum Consulting and teaching at [EBIS Techschool]([https://www.ebiseducation.com/)
 - 🌱 Constantly learning and striving to improve every day
 - 🥅 2025 Goals: Contribute more to Open Source projects
 
