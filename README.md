@@ -1,42 +1,19 @@
-### 
+## Hi, I'm Rafa 👋
 
-<h1>Hi there, I'm RafaPuerta 👋</h1>
-<h3>Full Stack Web Developer based in Madrid, Spain.</h3>
+Software developer by training who also designs, automates and runs the platforms
+his software lives on — now focused on AI agents and local inference.
 
-<br />
+### Now
+Working on **[MimirSynth](https://github.com/MimirSynth/mimirsynth)** — long-term memory for your AI agents
+that you review, that keeps its history, and that runs on your own infrastructure.
 
-[![EmailMe](https://img.shields.io/badge/info@rafapuerta.com-Email%20me-green?style=for-the-badge)](mailto://info@rafapuerta.com)
+### What I work on
+- **Development** — Fullstack web (MEAN, MERN) · Frontend (React, Vue, Next.js, Nuxt, Astro, Vite) · TypeScript & Node.js · Python (APIs with FastAPI, SQLAlchemy/Alembic, asyncio, automation & ETL pipelines) · PHP (Laravel) · Shell scripting (Bash, Zsh, PowerShell) · Testing (pytest) · API design
+- **AI & agents** — Long-term memory for AI agents · RAG & knowledge graphs (hybrid retrieval, embeddings) · MCP servers & gateways · LLM gateways (routing, rate limiting, budgets) · Agent tooling & integrations · Local inference: architecture, deployment & operation of end-to-end self-hosted inference stacks (LLMs, decision models, embeddings)
+- **Databases** — SQL, NoSQL & graph databases, incl. vector search (pgvector)
+- **DevOps & IaC** — CI/CD (GitHub Actions, OIDC trusted publishing, Forgejo runners) · Containers (Docker, Compose) · Infrastructure as Code (Terraform, Ansible) · Cloud design & management · Workflow automation
+- **Infrastructure** — Linux · Proxmox VE as an end-to-end virtualization, backup & DR platform · Redundant, resilient storage (ZFS) · Networking (VLANs, firewalling, DNS) · VPN design & deployment (WireGuard, OpenVPN) · Reverse proxies (Traefik) · Identity & SSO (OIDC)
+- **Observability** — Monitoring & alerting (CheckMK, Prometheus exporters) · Centralized logging & log analytics (VictoriaLogs) · Hardware & out-of-band monitoring (SNMP, Redfish/iDRAC)
 
-
-- 💻️ I'm currently developing at Lignorum Consulting and teaching at [EBIS Techschool]([https://www.ebiseducation.com/)
-- 🌱 Constantly learning and striving to improve every day
-- 🥅 2025 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="rafapuerta | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rafapuerta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rafapuerta | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
-
-<br />
-
-### Languages and Tools:
-
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img align="left" alt="ExpresJS" width="26px" src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Git" width="26px" src="https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png" />
-<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
-<br />
-
-[website]: http://rafapuerta.com
-[mail]: mailto://info@rafapuerta.com
-[linkedin]: https://linkedin.com/in/rafa-puerta-60633967](https://www.linkedin.com/in/rafa-puerta/
-[behance]: https://www.behance.net/rafapuerta
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/rafa-puerta/)
